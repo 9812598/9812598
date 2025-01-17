@@ -1,4 +1,4 @@
-- 👋 Hi, I’m  Aleksandr Kobelev (@9812598)
+- 👋 Hi, I’m  Aleksandr Kobelev 
 - 👀 I’m interested in frontend
 - 🌱 I’m currently learning css html javascrypt and react
 - 💞️ I’m looking to collaborate on your or mine pet projects. Let's make it togather!
